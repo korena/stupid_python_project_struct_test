@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for stupid_python_project_struct_test."""
 
 from .cli import main  # pragma: no cover
 
